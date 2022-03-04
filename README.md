@@ -5,4 +5,29 @@ Scientists have been studying about meteorites for a long time. The scientists h
 
 The Task was to build a Machine Learning model that predicts whether or not an asteroid will be dangerous (or not!).
 
+Data Description:
+Neo Reference ID: This feature denotes the reference ID assigned to an asteroid.
+
+Name: This feature denotes the name given to an asteroid.
+
+Absolute Magnitude:  denotes the absolute magnitude of an asteroid.
+
+Est Dia in KM(min) - estimated diameter of the asteroid in kilometres (KM).
+
+Relative Velocity km per sec: This feature denotes the relative velocity of the asteroid in kilometre per second.
+
+Orbiting Body: This feature denotes the planet around which the asteroid is revolving.
+
+Eccentricity: denotes the value of eccentricity of the asteroid’s orbit. 
+
+Semi Major Axis: denotes the value of the Semi Major Axis of the asteroid’s orbit. 
+
+Orbital Period: refers to the time taken by the asteroid to make one full revolution around its orbiting body.
+
+Perihelion Distance: denotes the point of least distance for a body orbiting the Sun
+
+Aphelion Dist: denotes the point of greatest distance for a body orbiting the Sun
+
+Hazardous: helps us identify whether meteorite is hazardous or not.
+
 For More Details visit: https://dphi.tech/challenges/data-sprint-61-meteorite-threat-identification/183/overview/about
