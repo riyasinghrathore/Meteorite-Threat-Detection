@@ -4,3 +4,5 @@ A meteorite is a solid piece of debris from an object, such as a comet, asteroid
 Scientists have been studying about meteorites for a long time. The scientists have realized that applying Machine learning can help them identify the threats much more efficiently, 
 
 The Task was to build a Machine Learning model that predicts whether or not an asteroid will be dangerous (or not!).
+
+For More Details visit: https://dphi.tech/challenges/data-sprint-61-meteorite-threat-identification/183/overview/about
